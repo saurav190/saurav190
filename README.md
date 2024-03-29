@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F71168&background=FFFFFF00&center=false&vCenter=true&random=true&width=600&lines=Associate+Software+Engineer;Full+stack+Engineer;2%2B+Years+of+experience;Self+driven+and+always+positive)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<img align="right" height="200px" alt="GIF" src="https://giphy.com/embed/ZVik7pBtu9dNS" />
+<img align="right" height="140px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG83dnd3ZDh5Zm45aTJlM3k2c2tlYnd2OGN0czlvcmx6YzE1eDFxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
 🔭 I’m currently working on MERN stack <br>👯 I’m looking to collaborate on React projects<br>🌱 I’m currently learning ML/DL <br>💬 Ask me about anything, I am happy to help😄<br>
 
 ## 🌐 Socials:
