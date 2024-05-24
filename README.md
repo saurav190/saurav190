@@ -1,5 +1,5 @@
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Prafulla Ranjan 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Saurav Rathod 👋
+### नमस्ते, I am Saurav Rathod 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Saurav%20Rathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/saurav-rathod-b3140a1b0](https://www.linkedin.com/in/saurav-rathod-b3140a1b0)/)](https://www.linkedin.com/in/saurav-rathod-b3140a1b0)
 [![Gmail Badge](https://img.shields.io/badge/-sauravrathod23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sauravrathod23@gmail.com)](mailto:sauravrathod23@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22324269)
 
